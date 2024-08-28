@@ -15,7 +15,7 @@
                             <x-form-input type="text" name="first_name" id="first_name" placeholder="Alex" required></x-form-input>
                         </div>
 
-{{--                        <x-form-error name="first_name"/>--}}
+                        <x-form-error name="first_name"/>
                     </x-form-field>
 
                     <x-form-field>
@@ -24,7 +24,7 @@
                             <x-form-input type="text" name="last_name" id="last_name" placeholder="Rock" required></x-form-input>
                         </div>
 
-{{--                        <x-form-error name="last_name"/>--}}
+                        <x-form-error name="last_name"/>
                     </x-form-field>
 
                     <x-form-field>
@@ -33,7 +33,7 @@
                             <x-form-input type="email" name="email" id="email" placeholder="example@examle.com" required></x-form-input>
                         </div>
 
-{{--                        <x-form-error name="email"/>--}}
+                        <x-form-error name="email"/>
                     </x-form-field>
 
                     <x-form-field>
@@ -42,7 +42,7 @@
                             <x-form-input type="password" name="password" id="password" required></x-form-input>
                         </div>
 
-{{--                        <x-form-error name="password"/>--}}
+                        <x-form-error name="password"/>
                     </x-form-field>
 
                     <x-form-field>
@@ -51,7 +51,7 @@
                             <x-form-input type="password" name="password_confirmation" id="password_confirmation" required></x-form-input>
                         </div>
 
-{{--                        <x-form-error name="password_confirmation"/>--}}
+                        <x-form-error name="password_confirmation"/>
                     </x-form-field>
                 </div>
             </div>
